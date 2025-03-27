@@ -24,8 +24,8 @@ This project implements a sophisticated stock price prediction model using an en
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/stock-price-prediction.git
-   cd stock-price-prediction
+   git clone https://github.com/your-username/StockML.git
+   cd StockML
    ```
 2. Create a virtual environment (optional but recommended):
    ```bash
@@ -41,9 +41,9 @@ This project implements a sophisticated stock price prediction model using an en
 1. Ensure all dependencies are installed.
 2. Run the script:
    ```bash
-   python stock_prediction.py
+   python fucking-god.py
    ```
-3. When prompted, enter a stock symbol (e.g., `AAPL` for Apple Inc.).
+3. When prompted, enter a stock symbol (e.g., `AAPL` for Apple Inc,`MSFT` for Microsoft Corp).
 4. The script will:
    - Fetch 5 years of historical data for the specified stock.
    - Train an ensemble of models.
